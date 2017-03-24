@@ -18,6 +18,13 @@ First things first -- here's your to-do list:
     - This community chat is where we will be communicating over the coming weeks.
     - It's hosted on a platform called Gitter.
 
+- [ ] [Sign-up](https://calendar.google.com/calendar/selfsched?sstoken=UUhmMXNELURxYTRsfGRlZmF1bHR8YjRlNzI4NTA3ZWVlNjRlYTRiMWMxNzJjMjVkN2NmMDA) for a 1-1 check in meeting with the OLC team during the week of April 3rd --> https://bit.ly/olccall
+    - If none of the times work for you, please let Katherine know. 
+    
+- [ ] Our first full cohort meeting will be on Wednesday April 12th. There are two optional times: 
+    - 10:00 AM ET / 2:00 PM UTC [(check your timezone)](http://arewemeetingyet.com/New%20York/2017-04-12/10:00/Open%20Leadership%20Camp%20Online%20--%20Full%20Cohort%20Meeting%201)
+    - 4:00 PM ET / 8:00 PM UTC [(check your timezone)](http://arewemeetingyet.com/New%20York/2017-04-12/16:00/Open%20Leadership%20Camp%20Online%20--%20Full%20Cohort%20Meeting%201)
+
 - [ ] Add your project info into the template below.
     - We've added some helpful example text so it's easy to get started.
 
