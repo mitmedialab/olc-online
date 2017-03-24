@@ -24,6 +24,7 @@ First things first -- here's your to-do list:
 - [ ] Our first full cohort meeting will be on Wednesday April 12th. There are two optional times: 
     - 10:00 AM ET / 2:00 PM UTC [(check your timezone)](http://arewemeetingyet.com/New%20York/2017-04-12/10:00/Open%20Leadership%20Camp%20Online%20--%20Full%20Cohort%20Meeting%201)
     - 4:00 PM ET / 8:00 PM UTC [(check your timezone)](http://arewemeetingyet.com/New%20York/2017-04-12/16:00/Open%20Leadership%20Camp%20Online%20--%20Full%20Cohort%20Meeting%201)
+    - **Add one to your calendar** :calendar:
 
 - [ ] Add your project info into the template below.
     - We've added some helpful example text so it's easy to get started.
